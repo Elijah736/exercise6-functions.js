@@ -41,5 +41,4 @@ let multiplicationResult = multiplyNumbers(5, 3);
 // Print the results to the console
 console.log("Addition Result:", additionResult);
 console.log("Multiplication Result:", multiplicationResult)
-let ishmaiel = addNumbers(10, 20);
-console.log(`The answer is ${ishmaiel}`)
+console.log("Hello, World!")
